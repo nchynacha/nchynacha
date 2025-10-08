@@ -9,7 +9,7 @@
 ###
 
 <h4 align="center">I’m currently learning about mobile development and frontend development<br>and am also enhancing my language skills, including English, Chinese, and Spanish.</h4>
-
+<h5 align="center">🔗 **Live Site:**  [Check it out](https://myportfolio-website-one-iota.vercel.app/) </h5>
 ###
 
 <h2 align="left">I'm learning :</h2>
@@ -30,6 +30,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" alt="vuejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="40" alt="tailwind logo"  />
 </div>
+
+
 
 ###
